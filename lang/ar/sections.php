@@ -133,4 +133,11 @@ return [
   'categorypost' => 'تصنيف',
   'posts' => 'المقالات',
   'post' => 'المقال',
+  'entities' => 'الجهات',
+  'experts' => 'الخبراء',
+  'expert' => 'خبير',
+  'partners' => 'الشركاء',
+  'partner' => 'شريك',
+  'organizations' => 'المؤسسات',
+  'organization' => 'مؤسسة',
 ];

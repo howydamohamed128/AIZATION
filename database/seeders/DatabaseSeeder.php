@@ -18,7 +18,10 @@ class DatabaseSeeder extends Seeder {
         //
         $this->call([
             // BannerSeeder::class,
-            CategorySeeder::class,
+            // CategorySeeder::class,
+            ExpertSeeder::class,
+            PartnerSeeder::class,
+            OrganizationSeeder::class,
         ]);
     }
 }

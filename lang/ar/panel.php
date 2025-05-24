@@ -151,7 +151,9 @@ return [
         'workers' => 'الفنيين',
         'textarea' => 'نص',
         'manual' => 'يدوي',
-
+        'organization' => 'المؤسسات',
+        'expert' => 'الخبراء',
+        'partner' => 'الشركاء',
 
     ],
     'notifications' => [
